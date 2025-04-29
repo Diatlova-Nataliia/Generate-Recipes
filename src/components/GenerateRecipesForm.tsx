@@ -21,6 +21,7 @@ const GenerateRecipesForm = () => {
     try {
       await generateRecipe({ ingredients: selectedIngredients });
     } catch (error) {
+      console.error(error);
       setLoading(false);
     }
     router.push("/recipes");
