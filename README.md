@@ -3,8 +3,6 @@
 An AI-powered platform for generating unique recipes based on selected ingredients.  
 The project is built with **Next.js**, utilizing **OpenAI API**, **Unsplash API**, and **MongoDB** for data storage.
 
-[![Deploy on Vercel](https://img.shields.io/badge/Deploy-Vercel-000?logo=vercel)](https://generate-recipes.vercel.app)
-
 ## 🚀 Live Demo
 
 👉 [View the Website](https://generate-recipes-icks.vercel.app/)
